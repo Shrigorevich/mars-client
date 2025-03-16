@@ -1,6 +1,6 @@
 ## Local launch
 
-1. CLone the repository
+1. Clone the repository
 
 ```bash
   $ git clone https://github.com/Shrigorevich/mars-api.git
